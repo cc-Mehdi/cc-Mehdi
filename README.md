@@ -1,4 +1,4 @@
-### <a href="google.com">Hi there 👋</a>
+### <img href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwRy68In7u5A9JmuefaMprN-ftuauPDvhRdgW6zJoIYFbWC6Maim-mFNaONzSA4zLOgbc&usqp=CAU" />
 
 <!--
 **cc-Mehdi/cc-Mehdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
