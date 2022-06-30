@@ -16,4 +16,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=cc-Mehdi&show_icons=true&theme=ADD_THEME_HERE" width="100%">
 
-<p>Contact me : <a href="mailto:kiarashjahangir6@gmail.com"> kiarashjahangir6@gmail.com </a> </p>
+<p>Contact me : <a href="mailto:cc.MehdiGholami@gmail.com"> cc.MehdiGholami@gmail.com </a> </p>
