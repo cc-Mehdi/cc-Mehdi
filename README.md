@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehdi</h1>
 <h3 align="center">A cool developer from Iran</h3>
 
-- 🌱 I’m currently learning **Asp dot net core 6**
+- 🌱 I’m currently learning **ASP.NET CORE**
 
 - 💬 Ask me about **CSharp, SqlServer & MySql, Wpf & WindowsForm, Web Design, Web Develop**
 
