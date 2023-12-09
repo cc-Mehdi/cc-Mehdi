@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mehdi</h1>
-<h3 align="center">A cool developer from Iran</h3>
+<h1 align="center">They call me Mehdi 👋</h1>
+<h3 align="center">Programmer?</h3>
 
 - 🌱 I’m currently learning **ASP.NET CORE**
 
