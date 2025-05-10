@@ -1,28 +1,76 @@
-<h1 align="center">They call me Mehdi 👋</h1>
-<h3 align="center">Programmer?</h3>
 
-- 🌱 I’m currently learning **ASP.NET CORE**
+[![Visits](https://komarev.com/ghpvc/?username=cc-Mehdi&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/cc-Mehdi)
 
-- 💬 Ask me about **CSharp, SqlServer & MySql, Wpf & WindowsForm, Web Design, Web Develop**
+# 👨‍💻 Mehdi Gholami 
+### Software Developer | Project Manager | Full-Stack .NET Specialist
 
-- 📫 How to reach me **cc.MehdiGholami@gmail.com,**
+**🏢 Currently at**: [Treata Company](https://www.treata.software) (Software Developer & Project Manager)  
+**🚀 Focus**: Building enterprise solutions with .NET stack from backend to UI  
+**🎯 Passion**: Creating efficient systems and mentoring teams  
 
-- ⚡ Fun fact **I think I'm a vandal ;)**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/cc-mehdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cc-mehdi" height="30" width="40" /></a>
-<a href="https://twitter.com/cc_mehdigh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cc_mehdigh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mehdi-gholami-a0a375219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehdi-gholami-a0a375219" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20015779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20015779" height="30" width="40" /></a>
-<a href="https://instagram.com/cc_mehdigh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cc_mehdigh" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### 💻 Core Development
+![.NET Ecosystem](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-1384D4?style=for-the-badge&logo=windows&logoColor=white)
+![MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=cc-Mehdi&show_icons=true&theme=ADD_THEME_HERE" width="100%">
+### 🌐 Web Technologies
+![ASP.NET Web API](https://img.shields.io/badge/ASP.NET_Web_API-5C2D91?style=for-the-badge)
+![Razor Pages](https://img.shields.io/badge/Razor_Pages-5C2D91?style=for-the-badge)
+![MVC](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cc-mehdi&theme=tokyo-night)](https://github.com/cc-mehdi/github-readme-activity-graph)
+### 🗃️ Data & Infrastructure
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<p>Contact me : <a href="mailto:cc.MehdiGholami@gmail.com"> cc.MehdiGholami@gmail.com </a> </p>
+### 🛠️ Project Management
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
+---
+
+## 📈 GitHub Metrics
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cc-Mehdi&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cc-Mehdi&layout=compact&theme=radical&hide=html,css)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=cc-Mehdi&theme=radical&hide_border=true)
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cc-mehdi&theme=react-dark&area=true&hide_border=true)
+</div>
+
+---
+
+## 🌱 Currently Leveling Up
+- **Algorithms** & problem solving
+- **LPIC** Linux certification
+- **Networking** fundamentals
+- **DevOps** practices (CI/CD, IaC)
+- **Advanced .NET** patterns
+
+---
+
+## 🏆 Professional Highlights
+- Led multiple projects from conception to deployment at Treata
+- Cross-platform development (Web/Desktop/Mobile)
+- Implemented containerized solutions with Docker
+- Scrum processes implementation and optimization
+
+---
+
+## 📫 Let's Collaborate
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cc.MehdiGholami@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-gholami-6360b7264/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cc_mehdigh)
